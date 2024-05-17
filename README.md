@@ -1,5 +1,5 @@
 ### Hi there! I am Pasindu Here 👋
-[![Linkedin: Sangeeth](https://img.shields.io/badge/-Sangeeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangeeth-nawarathna-34b7661b2/)](https://www.linkedin.com/in/sangeeth-nawarathna-34b7661b2/)
+[![Linkedin: Pasndu](https://img.shields.io/badge/-Pasindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pasindu-chanaka/)](https://www.linkedin.com/in/pasindu-chanaka/)
 <hr>
 
 🔭 Currently, I'm working on pushing the boundaries of software engineering.
