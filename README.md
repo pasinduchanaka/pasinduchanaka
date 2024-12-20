@@ -45,9 +45,10 @@ const pasinduProfile: TechProfile = {
     { name: "Java", level: "Expert", yearsOfExp: 6 },
   ],
   frameworks: [
+    { name: "Laravel", expertise: ["API", "Authentication"] },
+    { name: "Reaact", expertise: ["Redux"] },
     { name: "Angular", expertise: ["NgRx", "RxJS", "Material"] },
     { name: "Spring Boot", expertise: ["Microservices", "Security"] },
-    { name: "Laravel", expertise: ["API", "Authentication"] },
   ],
   architecture: [
     "Microservices",
@@ -71,14 +72,14 @@ const pasinduProfile: TechProfile = {
 <br>
 
 ### Core Technologies
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### State Management & Reactive Programming
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactiveX&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -91,9 +92,9 @@ const pasinduProfile: TechProfile = {
 <br>
 
 ### Core Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Database Systems
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
