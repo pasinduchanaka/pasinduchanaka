@@ -46,7 +46,7 @@ const pasinduProfile: TechProfile = {
   ],
   frameworks: [
     { name: "Laravel", expertise: ["API", "Authentication"] },
-    { name: "Reaact", expertise: ["Redux"] },
+    { name: "React", expertise: ["Redux"] },
     { name: "Angular", expertise: ["NgRx", "RxJS", "Material"] },
     { name: "Spring Boot", expertise: ["Microservices", "Security"] },
   ],
