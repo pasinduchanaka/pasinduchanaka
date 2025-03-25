@@ -123,6 +123,13 @@ const pasinduProfile: TechProfile = {
 
 
 ## 📊 Performance Metrics
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasinduchanaka&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=3600)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pasinduchanaka&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
 
