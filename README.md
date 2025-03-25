@@ -129,14 +129,6 @@ const pasinduProfile: TechProfile = {
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pasinduchanaka&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasinduchanaka&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasinduchanaka&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduchanaka&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/pasinduchanaka)
 
 </div>
